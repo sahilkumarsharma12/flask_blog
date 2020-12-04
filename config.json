@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/code",
+    "prod_uri": "mysql://root:@localhost/code",
+    "fb_url": "https://www.instagram.com/sahilsharma7160/",
+    "tw_url": "https:/twitter.com/Sahil35298823",
+    "gh_url": "https:/github.com/sahilkumarsharma12",
+    "blog_name": "TheLatestCode",
+    "tagline": "A Blog Like and written By programmers",
+    "screen": "Latest code",
+    "gmail-user": "sahilkumarsharm1205@gmail.com",
+    "gmail-password": "sahilsharma@12",
+    "about_text": "HI I AM A SHIL KUMAR SHARMA THIS IS MY FIRST BLOG",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "sahil",
+    "admin_password": "sahilkumarsharma",
+    "upload_location": "D:\\flask\\static\\img"
+  }
+
+
+
+}
